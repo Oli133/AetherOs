@@ -1,0 +1,7 @@
+{
+  "name": "AetherOS Desktop",
+  "description": "A lightweight, robust desktop operating system with multi-window multitasking, virtual UNIX filesystem, rich desktop applications, and high-thinking intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
